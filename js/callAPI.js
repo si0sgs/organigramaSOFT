@@ -1,6 +1,6 @@
 function CallService() {
-    //let uriServer = "https://si0sgs.github.io/SetOrg/Json/datos.json";
-    let uriServer = "http://127.0.0.1:5500/Json/datos.json";
+    let uriServer = "https://si0sgs.github.io/organigramaSOFT/Json/datos.json";
+    //let uriServer = "http://127.0.0.1:5500/Json/datos.json";
 
     //
 
