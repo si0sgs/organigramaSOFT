@@ -1,0 +1,495 @@
+{
+    "class": "go.TreeModel",
+    "nodeDataArray": [
+        {
+            "key": 2,
+            "name": "Sergio González",
+            "dept": "Desarrollo de Software",
+            "title": "SOFT",
+            "pic": "Sergio.jpg"
+        },
+        {
+            "key": 3,
+            "name": 5531,
+            "dept": "Interoperatividad Multiplataforma",
+            "title": "Unidad IM",
+            "parent": 2
+        },
+        {
+            "key": 4,
+            "name": 5551,
+            "dept": "Desarrollo y Operativización",
+            "title": "Unidad DO",
+            "parent": 2
+        },
+        {
+            "key": 5,
+            "name": 5553,
+            "dept": "Aseguramiento de Calidad del Software",
+            "title": "Unidad ACS",
+            "parent": 2
+        },
+        {
+            "key": 6,
+            "name": "Maria Elena Corrales",
+            "dept": "Asistente de Jefatura",
+            "title": "SOFT",
+            "parent": 2
+        },
+        {
+            "key": 7,
+            "name": "Cesar Obando ",
+            "dept": "Interoperatividad Multiplataforma",
+            "title": "Unidad IM",
+            "parent": 3
+        },
+        {
+            "key": 8,
+            "name": "Alvaro Sánchez",
+            "dept": "Desarrollo y Operativización",
+            "title": "Unidad DO",
+            "parent": 4
+        },
+        {
+            "key": 9,
+            "name": "Jorge Pacheco ",
+            "dept": "Desarrollo y Operativización",
+            "title": "Unidad DO",
+            "parent": 4
+        },
+        {
+            "key": 10,
+            "name": "Zeyllyam Vasquez",
+            "dept": "Aseguramiento de Calidad del Software",
+            "title": "Unidad ACS",
+            "parent": 5
+        },
+        {
+            "key": 11,
+            "name": "Sylvia Carvajal ",
+            "dept": "Desarrollo y Operativización",
+            "title": "EA IREA -SM- y Oficialía de Cumplimiento OCC -SM-",
+            "parent": 8
+        },
+        {
+            "key": 12,
+            "name": "Adriana Ruiz",
+            "dept": "Desarrollo y Operativización",
+            "title": "EA INDEMNIZA -SM- y ANGIE AI -SM- y  CRM",
+            "parent": 8
+        },
+        {
+            "key": 13,
+            "name": "Timna Badilla",
+            "dept": "Desarrollo y Operativización",
+            "title": "EA NICOLAS GM Y NICOLAS VC -SM- y SIRESU\/MODELOS\/SISVIDA",
+            "parent": 8
+        },
+        {
+            "key": 14,
+            "name": "José Conejo",
+            "dept": "Desarrollo y Operativización",
+            "title": "EA CORRESPONDENCIA -SM- y Runoff Lotus -SM-",
+            "parent": 8
+        },
+        {
+            "key": 15,
+            "name": "Sergio Villalobos ",
+            "dept": "Desarrollo y Operativización",
+            "title": "EA Talento Humano RSS -SM- y SIRERE Reaseguros -SM- y Reclutamiento GrupoINS -SM-",
+            "parent": 8
+        },
+        {
+            "key": 16,
+            "name": "Sergio Montero",
+            "dept": "Desarrollo y Operativización",
+            "title": "EA COTINS -SM-",
+            "parent": 8
+        },
+        {
+            "key": 17,
+            "name": "Rolando Aguilar",
+            "dept": "Desarrollo y Operativización",
+            "title": "Incidencias Point General",
+            "parent": 9
+        },
+        {
+            "key": 18,
+            "name": "Carlos Paniagua",
+            "dept": "Desarrollo y Operativización",
+            "title": "EA Fábrica de Productos -SM-",
+            "parent": 9
+        },
+        {
+            "key": 19,
+            "name": "Karla Guzman",
+            "dept": "Desarrollo y Operativización",
+            "title": "EA Fábrica de Productos",
+            "parent": 9
+        },
+        {
+            "key": 20,
+            "name": "Minor Rojas",
+            "dept": "Desarrollo y Operativización",
+            "title": "EA Fábrica de Productos",
+            "parent": 9
+        },
+        {
+            "key": 21,
+            "name": "Susana Sánchez",
+            "dept": "Desarrollo y Operativización",
+            "title": "EA Point General -SM-",
+            "parent": 9
+        },
+        {
+            "key": 22,
+            "name": "Gilberto Leon",
+            "dept": "Desarrollo y Operativización",
+            "title": "Refactorización Point General",
+            "parent": 9
+        },
+        {
+            "key": 23,
+            "name": "Mauricio Porras",
+            "dept": "Desarrollo y Operativización",
+            "title": "Refactorización Point General y Point Life",
+            "parent": 9
+        },
+        {
+            "key": 24,
+            "name": "Jimmy Gonzalez",
+            "dept": "Desarrollo y Operativización",
+            "title": "Point General",
+            "parent": 9
+        },
+        {
+            "key": 25,
+            "name": "Rebeca Chinchilla",
+            "dept": "Desarrollo y Operativización",
+            "title": "Point Life, SIPINT, Vida Dólares y Vida Tradicional",
+            "parent": 9
+        },
+        {
+            "key": 26,
+            "name": "Patricia García",
+            "dept": "Desarrollo y Operativización",
+            "title": "Point Life",
+            "parent": 9
+        },
+        {
+            "key": 27,
+            "name": "Rodrigo Leon",
+            "dept": "Desarrollo y Operativización",
+            "title": "Riesgos del Trabajo",
+            "parent": 9
+        },
+        {
+            "key": 28,
+            "name": "Alejandro Brenes",
+            "dept": "Desarrollo y Operativización",
+            "title": "Riesgos del Trabajo",
+            "parent": 9
+        },
+        {
+            "key": 29,
+            "name": "David Fernandez",
+            "dept": "Desarrollo y Operativización",
+            "title": "Riesgos del Trabajo",
+            "parent": 9
+        },
+        {
+            "key": 30,
+            "name": "Jesus Palacios",
+            "dept": "Desarrollo y Operativización",
+            "title": "EA ACD -SM-",
+            "parent": 8
+        },
+        {
+            "key": 31,
+            "name": "Lidia Zúñiga",
+            "dept": "Desarrollo y Operativización",
+            "title": "EA Fábrica de Productos",
+            "parent": 9
+        },
+        {
+            "key": 32,
+            "name": "Gustavo Cantillano",
+            "dept": "Desarrollo y Operativización",
+            "title": "EA SIMA -SM- PMO",
+            "parent": 9
+        },
+        {
+            "key": 33,
+            "name": "Randall Duran",
+            "dept": "Desarrollo y Operativización",
+            "title": "EA SIMA - PMO",
+            "parent": 9
+        },
+        {
+            "key": 34,
+            "name": "Rolando Artavia",
+            "dept": "Interoperatividad Multiplataforma",
+            "title": "EA SICSOA",
+            "parent": 7
+        },
+        {
+            "key": 35,
+            "name": "Jorge Moraga ",
+            "dept": "Desarrollo y Operativización",
+            "title": "SIFA",
+            "parent": 9
+        },
+        {
+            "key": 36,
+            "name": "Leonardo Bermudez",
+            "dept": "Desarrollo y Operativización",
+            "title": "SIFA y EA Ecosistema Digital -SM- y SISEPO -SM-",
+            "parent": 9
+        },
+        {
+            "key": 37,
+            "name": "Victor Chaves",
+            "dept": "Desarrollo y Operativización",
+            "title": "SIFA -SM- y EA CRM -SM-",
+            "parent": 9
+        },
+        {
+            "key": 38,
+            "name": "Edgardo Cyrus",
+            "dept": "Desarrollo y Operativización",
+            "title": "EA Cobro Digital -SM- (cajero virtual)",
+            "parent": 7
+        },
+        {
+            "key": 39,
+            "name": "Karol Alpizar",
+            "dept": "Desarrollo y Operativización",
+            "title": "EA AsesorINS, CAI -SM-",
+            "parent": 8
+        },
+        {
+            "key": 40,
+            "name": "Gregory Caravaca",
+            "dept": "Desarrollo y Operativización",
+            "title": "SIFA y EA SICFI -SM-",
+            "parent": 8
+        },
+        {
+            "key": 41,
+            "name": "Katherine Alvarado",
+            "dept": "Interoperatividad Multiplataforma",
+            "title": "EA SEC -SM- y INS en Línea -SM-",
+            "parent": 8
+        },
+        {
+            "key": 42,
+            "name": "Agustina Reyes",
+            "dept": "Desarrollo y Operativización",
+            "title": "EA Fábrica de Productos",
+            "parent": 9
+        },
+        {
+            "key": 43,
+            "name": "Albert Soto",
+            "dept": "Aseguramiento de Calidad del Software",
+            "title": "Unidad ACS",
+            "parent": 10
+        },
+        {
+            "key": 44,
+            "name": "Adriana Fallas",
+            "dept": "Aseguramiento de Calidad del Software",
+            "title": "Unidad ACS",
+            "parent": 10
+        },
+        {
+            "key": 45,
+            "name": "Ericka Sevilla",
+            "dept": "Aseguramiento de Calidad del Software",
+            "title": "Unidad ACS",
+            "parent": 10
+        },
+        {
+            "key": 46,
+            "name": "Marco Chacón",
+            "dept": "Aseguramiento de Calidad del Software",
+            "title": "Unidad ACS",
+            "parent": 10
+        },
+        {
+            "key": 47,
+            "name": "Luis Alberto Rojas Alvarez -IS",
+            "dept": "Desarrollo y Operativización",
+            "title": "EA Indemniza",
+            "parent": 8
+        },
+        {
+            "key": 48,
+            "name": "Andrey Moraga - IS",
+            "dept": "Desarrollo y Operativización",
+            "title": "EA Cobro Digital",
+            "parent": 8
+        },
+        {
+            "key": 49,
+            "name": "Edward Fonseca -IS",
+            "dept": "Desarrollo y Operativización",
+            "title": "EA Cobro Digital",
+            "parent": 8
+        },
+        {
+            "key": 50,
+            "name": "Bryan Navarro - IS",
+            "dept": "Desarrollo y Operativización",
+            "title": "EA MAC -SM-",
+            "parent": 8
+        },
+        {
+            "key": 51,
+            "name": "Berni Badilla - IS",
+            "dept": "Desarrollo y Operativización",
+            "title": "EA CAI",
+            "parent": 8
+        },
+        {
+            "key": 52,
+            "name": "Jose Manuel Fernandez -IS",
+            "dept": "Desarrollo y Operativización",
+            "title": "EA SISEPO",
+            "parent": 8
+        },
+        {
+            "key": 53,
+            "name": "Jonathan Hernandez - IS",
+            "dept": "Desarrollo y Operativización",
+            "title": "EA SIMA - PMO",
+            "parent": 9
+        },
+        {
+            "key": 54,
+            "name": "Joseph Ruiz - IS",
+            "dept": "Interoperatividad Multiplataforma",
+            "title": "EA SICSOA-SIR",
+            "parent": 7
+        },
+        {
+            "key": 55,
+            "name": "Limbert Artavia - IS",
+            "dept": "Interoperatividad Multiplataforma",
+            "title": "EA SICSOA",
+            "parent": 7
+        },
+        {
+            "key": 56,
+            "name": "Luis Felipe Chavarria - IS",
+            "dept": "Desarrollo y Operativización",
+            "title": "EA SIRERE Reaseguros",
+            "parent": 8
+        },
+        {
+            "key": 57,
+            "name": "Gerardo Sibaja - IS",
+            "dept": "Desarrollo y Operativización",
+            "title": "EA SIRERE Reaseguros",
+            "parent": 8
+        },
+        {
+            "key": 58,
+            "name": "Luis Diego Martinez Dobla - IS",
+            "dept": "Interoperatividad Multiplataforma",
+            "title": "EA RT VIRTUAL -SM-",
+            "parent": 8
+        },
+        {
+            "key": 59,
+            "name": "Freddy Esquivel - IS",
+            "dept": "Interoperatividad Multiplataforma",
+            "title": "EA SICSOA",
+            "parent": 7
+        },
+        {
+            "key": 60,
+            "name": "Marlon Sanchez - IS",
+            "dept": "Interoperatividad Multiplataforma",
+            "title": "EA SICSOA",
+            "parent": 7
+        },
+        {
+            "key": 61,
+            "name": "Daniel Martinez Campos - IS",
+            "dept": "Desarrollo y Operativización",
+            "title": "EA SIMA - PMO",
+            "parent": 9
+        },
+        {
+            "key": 62,
+            "name": "Jason Miranda - IS",
+            "dept": "Desarrollo y Operativización",
+            "title": "EA SIMA - PMO",
+            "parent": 9
+        },
+        {
+            "key": 63,
+            "name": "María Fernanda Pineda - IS",
+            "dept": "Interoperatividad Multiplataforma",
+            "title": "EA SICSOA",
+            "parent": 7
+        },
+        {
+            "key": 64,
+            "name": "Felipe Guerrero - IS",
+            "dept": "Desarrollo y Operativización",
+            "title": "CAJA, SICADOC, RUB",
+            "parent": 8
+        },
+        {
+            "key": 65,
+            "name": "Rafael Arrieta - IS",
+            "dept": "Desarrollo y Operativización",
+            "title": "EA CAI y SIRESU",
+            "parent": 8
+        },
+        {
+            "key": 66,
+            "name": "Greivin Cortes - IS",
+            "dept": "Desarrollo y Operativización",
+            "title": "EA OCC y SAMIS",
+            "parent": 8
+        },
+        {
+            "key": 67,
+            "name": "David Arce Viquez - IS",
+            "dept": "Desarrollo y Operativización",
+            "title": "EA OCC y EA SISEPO",
+            "parent": 8
+        },
+        {
+            "key": 68,
+            "name": "Marvin Delgado - IS",
+            "dept": "Desarrollo y Operativización",
+            "title": "BRULE y sistemas varios",
+            "parent": 8
+        },
+        {
+            "key": 69,
+            "name": "David Roldan - IS ",
+            "dept": "Desarrollo y Operativización",
+            "title": "EA OCC, EA IREA\/MARS",
+            "parent": 8
+        },
+        {
+            "key": 70,
+            "name": "Jose David Vargas - IS",
+            "dept": "Desarrollo y Operativización",
+            "title": "EA IREA\/MARS",
+            "parent": 8
+        },
+        {
+            "key": 71,
+            "name": "Michael Meneses - IS",
+            "dept": "Desarrollo y Operativización",
+            "title": "EA IREA\/MARS",
+            "parent": 8
+        }
+    ]
+}
